@@ -1,0 +1,2 @@
+A simple Mail Client written in java as part of a university Networking module.
+Compiled by: javac SMtpClient.java and run as java SMtpClient.
